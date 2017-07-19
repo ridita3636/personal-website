@@ -1,0 +1,111 @@
+body{
+
+	background-color: #BFBEED;
+	font-family: sans-serif;
+}
+
+h1{  
+
+	font-family: cursive;
+	color:navy;
+	margin-left: 80px;
+	margin-right: 52px;
+	font-size: 40px;
+	background-color:#A496F1;
+	margin-top: 60px;
+    margin-bottom: 40px;
+    height: 50px;
+    border-bottom: 3px solid #f1f1f1;
+    text-shadow: 
+       5px -1px 0 #84AF76,
+       6px -2px 0 green;
+		} 
+img{
+
+    width:345PX;
+    //float:left;
+    margin:20PX;
+    height: 300PX;
+
+}
+
+div{
+
+ margin-left:50px;
+ font-family: sans-serif;
+ color:navy;
+   font-size: 23px;
+}	
+p{
+margin-left: 70px
+font-family:cursive;
+  color: navy;
+   font-size: 18px;
+     }
+
+     .academinav{
+        
+        list-style: none;
+        margin-left: 500px; 
+        
+}
+    .academinav li{
+	display: inline-block;
+
+	//float: right;
+}
+
+
+.photonav{
+        
+        list-style: none;
+        margin-left: 500px; 
+        
+}
+    .photonav li{
+	display: inline-block;
+
+	//float: right;
+}
+	
+	.intenav{
+        
+        list-style: none;
+        margin-left: 500px; 
+        
+}
+    .intenav li{
+
+	display: inline-block;
+     //float: right;
+}
+
+      .imagnav{
+
+            background-color: #DECDEE;
+            margin-left: 80PX;
+            margin-right: 80PX;
+      }
+
+      
+
+      li{
+   margin-top: 50px;
+  display: inline; 
+  padding-right: 40px;
+
+}
+      ul a{
+    //margin-left: 600px;
+ 	text-decoration: none;
+ }
+ ul a:hover{
+     text-decoration: underline;
+      color:#8971CA;
+ }
+ .academinfo{
+ 	margin-left: 80px;
+ 	color:navy;
+
+
+ }

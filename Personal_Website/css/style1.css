@@ -1,0 +1,158 @@
+body{
+
+	background-color: #BFBEED;
+	font-family: sans-serif;
+}
+h1{  
+
+	font-family: cursive;
+	margin-left: 80px;
+	margin-right: 52px;
+	font-size: 40px;
+	color:navy;
+	background-color:#A496F1;
+	margin-top: 60px;
+    margin-bottom: 40px;
+    height: 50px;
+    border-bottom: 3px solid #f1f1f1;
+
+    text-shadow: 
+       5px -1px 0 #84AF76,
+       6px -2px 0 green;
+	 
+} 
+
+.aboutmenav{
+        
+        list-style: none;
+        margin-left: 500px; 
+        
+}
+.aboutmenav li{
+	display: inline-block;
+
+	//float: right;
+}
+
+.usenav{
+         list-style: none;
+        margin-left: 500px; 
+       
+}
+
+.usenav li{
+	display: inline-block;
+
+	//float: right;
+}
+
+
+.aboutmeimg{
+
+	margin-left: 150px;
+	display: inline-block;
+	//float: left;
+}
+
+.aboutmeinfo{
+  
+	background-color: none;
+	color: navy;
+}
+
+
+div.aboutmeinfo{
+
+	display: inline-block;
+	float: right;
+	margin: 0;
+	padding: 0;
+}
+
+.positionnav{
+       
+
+     list-style: none;
+	margin-left: 500px
+}
+.positionnav li{
+   display: inline-block;
+	//float: left;
+
+}
+
+li{
+
+   margin-top: 50px;
+  display: inline;
+  padding-right: 40px;
+}
+ ul a{
+    //margin-left: 600px;
+ 	text-decoration: none;
+ }
+ ul a:hover{
+     text-decoration: underline;
+ 	  color:#8971CA;
+ }
+
+img{
+
+	//margin-left: 800px;
+	height: 400px;
+	width: 300px;
+	margin-top: 60px;
+} 
+
+h2{
+    font-family: sans-serif;
+	 margin-left: 100px;
+
+}
+
+h3{
+    font-family: sans-serif;
+	 margin-left: 100px;
+	 margin-top: 30px;
+}
+
+
+form li{
+
+	list-style: none;
+	margin-bottom: 20px;
+}
+
+label{
+	display: block;
+	color: #E448F2;
+}
+
+textarea{
+	width: 600px;
+	height: 200px;
+}
+ .contactnav{
+ 	margin-left: 80px;
+ 	margin-right: 52px;
+ 	margin-top: 40px;
+ 	background-color: #DBE0F2;
+ 	//width: 1250px;
+ 	//height: 700px;
+ }
+
+p{  
+ 	font-size: 20;
+   color: blue;
+   margin-left:100px; 
+
+ }
+
+ .fulnav{
+     margin-left: 80px;
+     color:navy;
+     font-size: 20px
+
+
+ }
+ 

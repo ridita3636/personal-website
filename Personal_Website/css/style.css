@@ -1,0 +1,46 @@
+body{
+
+	background:url('../image/pic24.jpg');
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h1{  
+	font-family: cursive;
+	margin-left: 60px;
+	margin-right: 60px;
+	font-size: 40px;
+	color:navy;
+	background-color:#C2C2E9;
+	margin-top: 60px;
+    margin-bottom: 40px;
+    height: 50px;
+    border-bottom: 3px solid #f1f1f1;
+    
+    text-shadow: 
+       5px -1px 0 #84AF76,
+       6px -2px 0 green;
+}
+
+
+li{
+
+   margin-top: 100px;
+  display: inline; 
+  padding-right: 40px;
+}
+
+ ul a{
+     
+ 	text-decoration: none;
+ 	width: 15px;
+     height: 20px;
+ }
+ ul a:hover{
+     text-decoration: underline;
+
+ 	 color:#8971CA;
+ }
+
+
+ 
